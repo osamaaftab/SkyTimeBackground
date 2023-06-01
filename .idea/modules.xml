@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TimeSkyBackground.iml" filepath="$PROJECT_DIR$/.idea/TimeSkyBackground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TimeSkyBackgroundView/TimeSkyBackground.TimeSkyBackgroundView.iml" filepath="$PROJECT_DIR$/.idea/modules/TimeSkyBackgroundView/TimeSkyBackground.TimeSkyBackgroundView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TimeSkyBackgroundView/TimeSkyBackground.TimeSkyBackgroundView.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TimeSkyBackgroundView/TimeSkyBackground.TimeSkyBackgroundView.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TimeSkyBackgroundView/TimeSkyBackground.TimeSkyBackgroundView.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TimeSkyBackgroundView/TimeSkyBackground.TimeSkyBackgroundView.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TimeSkyBackgroundView/TimeSkyBackground.TimeSkyBackgroundView.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TimeSkyBackgroundView/TimeSkyBackground.TimeSkyBackgroundView.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/timeskybackgroundsample/TimeSkyBackground.timeskybackgroundsample.iml" filepath="$PROJECT_DIR$/.idea/modules/timeskybackgroundsample/TimeSkyBackground.timeskybackgroundsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/timeskybackgroundsample/TimeSkyBackground.timeskybackgroundsample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/timeskybackgroundsample/TimeSkyBackground.timeskybackgroundsample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/timeskybackgroundsample/TimeSkyBackground.timeskybackgroundsample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/timeskybackgroundsample/TimeSkyBackground.timeskybackgroundsample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/timeskybackgroundsample/TimeSkyBackground.timeskybackgroundsample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/timeskybackgroundsample/TimeSkyBackground.timeskybackgroundsample.unitTest.iml" />
+    </modules>
+  </component>
+</project>
